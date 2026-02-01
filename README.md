@@ -1,5 +1,4 @@
 # Secure-Segmented-Intra-College-Club-Portal
-![INTRA COLLEGE CLUB PORTAL ]("C:\Users\NANDINI\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-01 221524.png")
 
 
 Student clubs across branches lacked a **centralized and secure communication system**, leading to unauthorized access, data leakage, and inefficient network usage.
